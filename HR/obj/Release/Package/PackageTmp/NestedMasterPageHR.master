@@ -1,0 +1,4 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/HRSite.Master" AutoEventWireup="true" CodeBehind="NestedMasterPageHR.master.cs" Inherits="HR.NestedMasterPageHR" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+<asp:ContentPlaceHolder ID="NestedContent" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
